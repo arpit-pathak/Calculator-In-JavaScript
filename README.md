@@ -9,7 +9,7 @@
 
 ### Screenshot
 
-![project 15 screenshot](./screenshots/calculatorbyarpit.png)
+![project screenshot](./Screenshots/calculatorbyarpit.png)
 
 ## 📌 What I learned from this Project? 📝
 
